@@ -27,7 +27,7 @@ Gemfile:
       - gem: voxpupuli-test
         version: '~> 13.0'
       - gem: puppet_metadata
-        version: '~> 5.0'
+        version: '~> 6.0'
     ':development':
       - gem: guard-rake
       - gem: overcommit
