@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## [10.5.0](https://github.com/voxpupuli/modulesync_config/tree/10.5.0) (2025-12-29)
+
+[Full Changelog](https://github.com/voxpupuli/modulesync_config/compare/10.4.0...10.5.0)
+
+**Implemented enhancements:**
+
+- puppet\_metadata: Require 6.x [\#1013](https://github.com/voxpupuli/modulesync_config/pull/1013) ([bastelfreak](https://github.com/bastelfreak))
+- Add allowed\_owner setting to avoid changes on fork [\#1003](https://github.com/voxpupuli/modulesync_config/pull/1003) ([Joris29](https://github.com/Joris29))
+
+**Fixed bugs:**
+
+- Don't delete `.devcontainer/devcontainer.json` [\#1011](https://github.com/voxpupuli/modulesync_config/pull/1011) ([kenyon](https://github.com/kenyon))
+
+**Merged pull requests:**
+
+- Adds puppet-autosign to managed modules [\#1009](https://github.com/voxpupuli/modulesync_config/pull/1009) ([logicminds](https://github.com/logicminds))
+- Make Gemfile pass RuboCop checks [\#1008](https://github.com/voxpupuli/modulesync_config/pull/1008) ([ekohl](https://github.com/ekohl))
+- Add `puppet-artifactory` module [\#1006](https://github.com/voxpupuli/modulesync_config/pull/1006) ([alexjfisher](https://github.com/alexjfisher))
+
 ## [10.4.0](https://github.com/voxpupuli/modulesync_config/tree/10.4.0) (2025-10-17)
 
 [Full Changelog](https://github.com/voxpupuli/modulesync_config/compare/10.3.0...10.4.0)
